@@ -1,0 +1,53 @@
+{
+    "work": [{
+            "at": "Apple",
+            "title": "Software Engineer (Machine Learning) Intern",
+            "time": "Jun 2020 - Sep 2020"
+        }, {
+            "at": "ASUS Intelligent Cloud Service",
+            "title": "Software Engineer (Machine Learning) Intern",
+            "time": "May 2019 - Jul 2019"
+        },
+        {
+            "at": "IBM Taiwan",
+            "title": "Software Engineer Intern",
+            "time": "Aug 2017 - Jun 2018"
+        },
+        {
+            "at": "Industrial Technology Research Institute, Taiwan",
+            "title": "Software Engineer / Deep Learning Research Intern",
+            "time": "Jul 2016 - Feb 2018"
+        },
+        {
+            "at": "National Taiwan University",
+            "title": "Teaching Assistant of Calculus",
+            "time": "Sep 2015 - Jun 2016"
+        }
+    ],
+    "event": [{
+            "at": "NTU Open Source Community",
+            "title": "Developer",
+            "time": "2016 - 2019",
+            "link": "https://ntuosc.org/"
+        },
+        {
+            "at": "Taipei Ethereum Meetup",
+            "title": "Writer",
+            "time": "Mar 2017 - Dec 2018",
+            "link": "https://medium.com/taipei-ethereum-meetup"
+        },
+        {
+            "at": "COSCUP",
+            "title": "Participant",
+            "time": "2017, 2018, 2019",
+            "link": "http://blog.coscup.org/"
+        },
+
+        {
+            "at": "Code.org",
+            "title": "Volunteer Interpreter",
+            "time": "Mar 2017 - Jun 2017"
+        }       
+    ]
+
+}
