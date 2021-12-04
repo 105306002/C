@@ -607,9 +607,14 @@ tl-item.active .tl-dot:before {
 .main-header-left-container {
     /* flex-basis: 66.66%; */
     max-width: 350px;
+    /* height: 50px;
+    position: relative;
+    margin-left: -150px;
+    margin-top: 100vh;
+    text-align:right; */
 }
 
-.main-header-right-container {}
+
 
 .main-hr-line {
     width: 60%;
@@ -646,8 +651,5 @@ tl-item.active .tl-dot:before {
     width: 10vh;
 }
 
-.main-img-container {
-    margin-left: 30px;
-    margin-top: -1vh;
-}
+
 
